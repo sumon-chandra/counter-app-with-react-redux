@@ -1,0 +1,23 @@
+.counter {
+    background-color: #f65656;
+    width: 300px;
+    text-align: center;
+    padding: 10px 0;
+    margin: 2rem auto;
+    border-radius: 5px
+}
+
+.counter>h2 {
+    font-size: 2rem;
+    color: #f7b2b2;
+}
+
+.counter>button {
+    padding: 3px 8px;
+    border: none;
+    margin: 5px;
+    background-color: #f7b2b2;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
